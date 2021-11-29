@@ -17,3 +17,5 @@ How To Integrate PayPal in ReactJS - Tutorial
 
 PayPal-Implementation-React
  [Github Repo](https://github.com/machadop1407/PayPal-Implementation-React/blob/master/README.md)
+
+ [193-paypal-checkout-v2-demos](https://github.com/fireship-io/193-paypal-checkout-v2-demos)

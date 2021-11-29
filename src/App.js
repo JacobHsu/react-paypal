@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="App">
+      <PayPal />
       {checkOut ? (
         <PayPal />
       ) : (
@@ -18,6 +19,7 @@ function App() {
           CheckOut
         </button>
       )}
+      
     </div>
   );
 }
